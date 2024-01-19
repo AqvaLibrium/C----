@@ -1,6 +1,6 @@
-#include "iostream"
-#include "cmath"
-#include "string"
+#include <iostream>
+#include <cmath>
+#include <string>
 // 1 задача
 //int main()
 //{
